@@ -6,6 +6,6 @@ The requirement that we found impossible to figure out was:
 
 add/remove an item  to/from the .csv file. 
 
-The choosepayment and paycredit requirements had no meaning because storing the 16 digit card number that we were asking for was going to be stored
-for no reason. 
+The choosepayment and paycredit requirements had no meaning because storing the 16 digit card number that we were asking for 
+was going to be stored for no reason. 
 
